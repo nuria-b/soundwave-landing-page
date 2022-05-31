@@ -54,6 +54,10 @@ nav>div{
     text-decoration: none;
 }
 
+.menu:hover{
+    color: #202027;
+}
+
 /* Header */
 header{
     display: flex;
@@ -233,6 +237,10 @@ footer{
     justify-content: space-around;
     background-color: #202027;
     height: 3.5em; 
+}
+
+.footer-text:hover{
+    color: #202027;
 }
 
 footer>div{
