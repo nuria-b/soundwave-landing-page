@@ -142,6 +142,7 @@ button:focus{
     width: 5em;
     height: 5em;
     margin-right: 1em;
+    margin-bottom: 2em;
     display: flex;
     align-items: center;
     justify-content: space-around;
