@@ -113,13 +113,15 @@ button:focus{
     background-color: #2796ff;
 }
 
+/*
 .Circle{
-    background: red; /*#bc3a801a*/
+    background: #bc3a801a;
     border-radius: 50%;
     width: 100px;
     height: 100px;
     position: relative;
 }
+*/
 
 /* Discover */
 .discover{
@@ -139,7 +141,7 @@ button:focus{
     background-color: #202027;
     width: 5em;
     height: 5em;
-    margin: 1em;
+    margin-right: 1em;
     display: flex;
     align-items: center;
     justify-content: space-around;
