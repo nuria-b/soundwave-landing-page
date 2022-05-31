@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/soundwave/static/css/main.5146181c.css",
+    "main.js": "/soundwave/static/js/main.e07168d7.js",
+    "static/media/landing-page-girl.png": "/soundwave/static/media/landing-page-girl.9d276ac0bfa4c188903e.png",
+    "static/media/covers.jpg": "/soundwave/static/media/covers.77f7098f609ef18767e5.jpg",
+    "static/media/logo.svg": "/soundwave/static/media/logo.bb406fb1e896fa5b81e899bfd91f3f6c.svg",
+    "static/media/microphone.svg": "/soundwave/static/media/microphone.ca0d2681d674315e1f303c69e6aa4c12.svg",
+    "static/media/twitter.svg": "/soundwave/static/media/twitter.99178a3b3c6e9350fa23c79c7f3cf03c.svg",
+    "static/media/more.svg": "/soundwave/static/media/more.5869422fba4f05855c8255355cd5d172.svg",
+    "index.html": "/soundwave/index.html",
+    "static/media/facebook.svg": "/soundwave/static/media/facebook.9a78c5da61adcff89056f886e3b14dcd.svg",
+    "static/media/albums.svg": "/soundwave/static/media/albums.edcbb360c6cfb46704f7516b3c510d45.svg",
+    "main.5146181c.css.map": "/soundwave/static/css/main.5146181c.css.map",
+    "main.e07168d7.js.map": "/soundwave/static/js/main.e07168d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5146181c.css",
+    "static/js/main.e07168d7.js"
+  ]
+}
