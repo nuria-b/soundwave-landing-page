@@ -1,7 +1,5 @@
 import React from 'react';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
-import Stack from '@mui/material/Stack';
 
 export default function Form() {
     const [values, setValues] = React.useState({
@@ -60,9 +58,7 @@ export default function Form() {
                     value={values.password}
                     onChange={handleChange}
                 />
-                <Stack id='boton-join' spacing={2} direction="row">
-                    <Button type="submit" id='join'>Join now</Button>
-                </Stack>
+                <button type="submit" id='join'>Join now</button>
             </form>
         </Box>
     </section>

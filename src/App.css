@@ -171,6 +171,7 @@ button:focus{
 }
 
 /* Join */
+/* Join */
 .join{
     height: 100vh;
     display: flex;
@@ -212,33 +213,6 @@ form>input{
     margin-top: 1em;
     margin-bottom: 1em;
     color: #fff;
-    background-color: #1762A7;
-    border-radius: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-    border-style: none;
-}
-
-#boton-join{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-#join>a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 0.5em;
-}
-
-#join:hover{
-    background-color: #2180d8;
-}
-
-#join:focus{
-    background-color: #2796ff;
 }
 
 h2{
